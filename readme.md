@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aries56x
+- 👋 Hi, I’m @aries56
 - 👀 I’m interested in ... using my development skills in a creative and exciting way
 - 🌱 I’m currently learning ... Game Development
 - 💞️ I’m looking to collaborate on ... a creative, exciting project
